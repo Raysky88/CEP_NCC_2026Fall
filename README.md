@@ -1,2 +1,5 @@
 # CEP_NCC_2026Fall
-testing repo for NCC class
+
+## for fun 
+
+testing **repo** for NCC class
